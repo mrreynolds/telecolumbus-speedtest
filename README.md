@@ -7,6 +7,8 @@
 - Firefox 47.0.1 installiert unter `/Applications/Firefox47.0.1/Firefox.app`
 - Flash 😣
 
+## Installieren
+
     $ bundle install
 
 ## Ausführen
